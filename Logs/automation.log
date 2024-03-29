@@ -1,0 +1,11 @@
+22:23:55.627 [main] INFO  testBase.BaseClass - Goto my account-->Click on Login.. 
+22:24:13.951 [main] INFO  testBase.BaseClass - The user fill in the registration form with given data
+22:28:46.502 [main] INFO  testBase.BaseClass - Goto my account-->Click on Login.. 
+22:28:46.698 [main] INFO  testBase.BaseClass - The user fill in the registration form with given data
+22:28:47.038 [main] INFO  testBase.BaseClass - Clicked on Registration Button
+12:32:31.399 [main] INFO  testBase.BaseClass - Goto my account-->Click on Login.. 
+12:32:31.569 [main] INFO  testBase.BaseClass - The user fill in the registration form with given data
+12:32:31.873 [main] INFO  testBase.BaseClass - Clicked on Registration Button
+12:46:40.594 [main] INFO  testBase.BaseClass - Goto my account-->Click on Login.. 
+12:46:40.804 [main] INFO  testBase.BaseClass - The user fill in the registration form with given data
+12:46:41.167 [main] INFO  testBase.BaseClass - Clicked on Registration Button

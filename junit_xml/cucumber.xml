@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="3.858">
+    <testcase classname="Registration with valid and invalid credentials" name="Registering user with given fields" time="3.643">
+        <system-out><![CDATA[Given The user opens Register Page..........................................passed
+When The user fill in the registration form with given data sdet123454, sdet1, and sdet12.passed
+Then User should see an error/success message password_mismatch:The two password fields didn’t match., and Invalid.passed
+]]></system-out>
+    </testcase>
+</testsuite>
